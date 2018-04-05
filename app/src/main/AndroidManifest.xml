@@ -9,7 +9,7 @@
 
     <application
         android:allowBackup="true"
-        android:icon="@mipmap/daisy_icon"
+        android:icon="@drawable/ico_libcat3"
         android:label="@string/app_name"
         android:theme="@style/LibraryClone3Theme" >
 

@@ -3,36 +3,6 @@
     android:orientation="vertical" android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-    <RelativeLayout
-        android:id="@+id/progress_layout"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:padding="2dp">
-
-        <ProgressBar
-            android:id="@+id/progress_bar"
-            android:layout_width="fill_parent"
-            android:layout_height="wrap_content"
-            android:progressDrawable="@drawable/progress_javagreen"
-            style="@android:style/Widget.ProgressBar.Horizontal"
-            android:layout_alignParentTop="true"
-            android:max="100" />
-
-        <TextView
-            android:id="@+id/progress_text"
-            android:layout_width="fill_parent"
-            android:layout_height="wrap_content"
-            android:layout_alignBottom="@id/progress_bar"
-            android:background="@android:color/transparent"
-            android:gravity="center" />
-        </RelativeLayout>
-
-    <Spinner
-        android:id="@+id/spin_slushpile"
-        android:layout_width="fill_parent"
-        android:layout_height="wrap_content"
-        android:entries="@array/stage_strings_plus_flag"/>
-
     <ListView
         android:id="@+id/android:list"
         android:layout_width="wrap_content"

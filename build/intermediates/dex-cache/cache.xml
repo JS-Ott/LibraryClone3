@@ -2,11 +2,25 @@
 <items version="2" >
 
     <item
+        jar="/run/media/jso/catnip/workspace/LibraryClone3/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/run/media/jso/catnip/workspace/LibraryClone3/app/build/intermediates/pre-dexed/release/internal_impl-24.0.0_e313dc33ee084c48c051cd061b19a2b9022498b8.jar" />
+    </item>
+    <item
         jar="/run/media/jso/catnip/workspace/LibCat3/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
         <dex dex="/run/media/jso/catnip/workspace/LibCat3/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.0.0_3c8d3e25a3b1bde2c7072c655ed1085dcf5c4849.jar" />
+    </item>
+    <item
+        jar="/run/media/jso/catnip/workspace/LibraryClone3/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/run/media/jso/catnip/workspace/LibraryClone3/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-24.0.0_e23b1a592e2d8e111fc16df023160e23a7e3aa18.jar" />
     </item>
     <item
         jar="/opt/android-sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
